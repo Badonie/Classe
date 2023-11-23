@@ -1,6 +1,8 @@
 /* No console você põe uma palavra como "Hola" e o numero "15" e isso vai fazer como que repita as 15 vezes que pediu
 "Hola: 0" dai depois "Hola: 1" e isso ate completar as 15 vezes que pediu. */ 
 
+// Editei pelo GitHub essa parada.
+
 package com.mycompany.argumentos_2;
 
 public class Argumentos_2 { 
